@@ -1,6 +1,6 @@
 ---
 layout: post
-title: the first
+title: the second
 cover: cover.jpg
 date:   2016-10-03 12:00:00
 categories: posts
