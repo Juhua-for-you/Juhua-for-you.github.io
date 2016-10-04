@@ -1,14 +1,13 @@
 ---
 layout: post
-title: the first
+title: the second
 cover: cover.jpg
 date:   2016-10-03 12:00:00
 categories: posts
 ---
 
-## 大脑好空不知道该打些什么
+## 咬紧牙关做博客
 
-Today is monday,while i was lying on bed i found it hard to get up, [how to get over hating to get out of bed](http://www.zhihu.com/question/22587748?sort=created&page=1).
+> 我是中国人民的儿子。我深情地爱着我的祖国和人民。
 
-## NOW THAT i have set up this blog,i have so many to say
-my motto:Don't be aotaku!!!! [宅男需要女朋友吗？？？](http://www.zhihu.com/question/51183550). 
+对于一个电脑小白来说做这个真的好麻烦，一切都要一点点去了解。当然也有小伙伴帮我啦，虽然我先在电脑技术很烂，但是我会一点带你努力。在未来的某一天也成为别人口中的**大神**。 
