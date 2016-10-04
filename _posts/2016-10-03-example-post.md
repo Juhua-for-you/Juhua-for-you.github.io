@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title: the first
 cover: cover.jpg
 date:   2016-10-03 12:00:00
-categories: posts
+categories: postsss
 ---
 
 ## 大脑好空不知道该打些什么
